@@ -1,0 +1,14 @@
+{
+    "name": "ddf--undp--hdi",
+    "author": "Gapminder",
+    "description": "Human Development Index (HDI)",
+    "language": {
+        "name": "English",
+        "id": "en"
+    },
+    "translations": [],
+    "license": "MIT",
+    "title": "ddf--undp--hdi",
+    "version": "0.0.1",
+    "resources": []
+}
