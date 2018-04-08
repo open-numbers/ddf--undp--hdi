@@ -1,0 +1,5 @@
+concept,name,concept_type
+hdi,Human Development Index,measure
+country,Country,entity_domain
+year,Year,time
+name,Name,string

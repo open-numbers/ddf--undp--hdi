@@ -1,14 +1,115 @@
 {
     "name": "ddf--undp--hdi",
-    "author": "Gapminder",
-    "description": "Human Development Index (HDI)",
     "language": {
         "name": "English",
         "id": "en"
     },
-    "translations": [],
+    "author": "Gapminder",
+    "description": "Human Development Index (HDI)",
     "license": "MIT",
     "title": "ddf--undp--hdi",
+    "translations": [],
     "version": "0.0.1",
-    "resources": []
+    "created": "2018-04-08T01:30:39.545071+00:00",
+    "resources": [
+        {
+            "path": "ddf--datapoints--hdi--by--country--year.csv",
+            "name": "ddf--datapoints--hdi--by--country--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "hdi"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--concepts.csv",
+            "name": "ddf--concepts",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "concept"
+                    },
+                    {
+                        "name": "name"
+                    },
+                    {
+                        "name": "concept_type"
+                    }
+                ],
+                "primaryKey": "concept"
+            }
+        },
+        {
+            "path": "ddf--entities--country.csv",
+            "name": "ddf--entities--country",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "name"
+                    }
+                ],
+                "primaryKey": "country"
+            }
+        }
+    ],
+    "ddfSchema": {
+        "concepts": [
+            {
+                "primaryKey": [
+                    "concept"
+                ],
+                "value": "concept_type",
+                "resources": [
+                    "ddf--concepts"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "concept"
+                ],
+                "value": "name",
+                "resources": [
+                    "ddf--concepts"
+                ]
+            }
+        ],
+        "entities": [
+            {
+                "primaryKey": [
+                    "country"
+                ],
+                "value": "name",
+                "resources": [
+                    "ddf--entities--country"
+                ]
+            }
+        ],
+        "datapoints": [
+            {
+                "primaryKey": [
+                    "country",
+                    "year"
+                ],
+                "value": "hdi",
+                "resources": [
+                    "ddf--datapoints--hdi--by--country--year"
+                ]
+            }
+        ]
+    }
 }
