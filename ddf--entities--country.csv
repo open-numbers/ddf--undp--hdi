@@ -43,7 +43,7 @@ costa_rica,Costa Rica
 croatia,Croatia
 cuba,Cuba
 cyprus,Cyprus
-czech_republic,Czech Republic
+czechia,Czechia
 cote_d_ivoire,Côte d'Ivoire
 denmark,Denmark
 djibouti,Djibouti
@@ -55,6 +55,7 @@ el_salvador,El Salvador
 equatorial_guinea,Equatorial Guinea
 eritrea,Eritrea
 estonia,Estonia
+eswatini_kingdom_of,Eswatini (Kingdom of)
 ethiopia,Ethiopia
 fiji,Fiji
 finland,Finland
@@ -106,6 +107,7 @@ malaysia,Malaysia
 maldives,Maldives
 mali,Mali
 malta,Malta
+marshall_islands,Marshall Islands
 mauritania,Mauritania
 mauritius,Mauritius
 mexico,Mexico
@@ -123,6 +125,7 @@ new_zealand,New Zealand
 nicaragua,Nicaragua
 niger,Niger
 nigeria,Nigeria
+north_macedonia,North Macedonia
 norway,Norway
 oman,Oman
 pakistan,Pakistan
@@ -159,14 +162,12 @@ spain,Spain
 sri_lanka,Sri Lanka
 sudan,Sudan
 suriname,Suriname
-swaziland,Swaziland
 sweden,Sweden
 switzerland,Switzerland
 syrian_arab_republic,Syrian Arab Republic
 tajikistan,Tajikistan
 tanzania_united_republic_of,Tanzania (United Republic of)
 thailand,Thailand
-the_former_yugoslav_republic_of_macedonia,The former Yugoslav Republic of Macedonia
 timor_leste,Timor-Leste
 togo,Togo
 tonga,Tonga
@@ -187,3 +188,26 @@ viet_nam,Viet Nam
 yemen,Yemen
 zambia,Zambia
 zimbabwe,Zimbabwe
+monaco,Monaco
+nauru,Nauru
+korea_democratic_people_s_rep_of,Korea (Democratic People's Rep. of)
+san_marino,San Marino
+somalia,Somalia
+tuvalu,Tuvalu
+human_development,Human Development
+very_high_human_development,Very high human development
+high_human_development,High human development
+medium_human_development,Medium human development
+low_human_development,Low human development
+developing_countries,Developing Countries
+regions,Regions
+arab_states,Arab States
+east_asia_and_the_pacific,East Asia and the Pacific
+europe_and_central_asia,Europe and Central Asia
+latin_america_and_the_caribbean,Latin America and the Caribbean
+south_asia,South Asia
+sub_saharan_africa,Sub-Saharan Africa
+least_developed_countries,Least Developed Countries
+small_island_developing_states,Small Island Developing States
+organization_for_economic_co_operation_and_development,Organization for Economic Co-operation and Development
+world,World
