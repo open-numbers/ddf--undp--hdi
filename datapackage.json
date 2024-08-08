@@ -8,7 +8,7 @@
     "description": "Human Development Index (HDI)",
     "author": "Gapminder",
     "license": "MIT",
-    "created": "2021-11-08T06:07:41.271822+00:00",
+    "created": "2024-08-08T07:12:25.988918+00:00",
     "translations": [],
     "version": "0.0.1",
     "resources": [
@@ -27,7 +27,9 @@
                         "name": "concept_type"
                     }
                 ],
-                "primaryKey": "concept"
+                "primaryKey": [
+                    "concept"
+                ]
             }
         },
         {
@@ -63,7 +65,9 @@
                         "name": "name"
                     }
                 ],
-                "primaryKey": "country"
+                "primaryKey": [
+                    "country"
+                ]
             }
         }
     ],
