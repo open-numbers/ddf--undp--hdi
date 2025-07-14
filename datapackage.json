@@ -1,14 +1,14 @@
 {
     "name": "ddf--undp--hdi",
-    "language": {
-        "name": "English",
-        "id": "en"
-    },
     "title": "ddf--undp--hdi",
     "description": "Human Development Index (HDI)",
     "author": "Gapminder",
     "license": "MIT",
-    "created": "2024-08-08T07:12:25.988918+00:00",
+    "language": {
+        "name": "English",
+        "id": "en"
+    },
+    "created": "2025-07-14T02:16:11.507Z",
     "translations": [],
     "version": "0.0.1",
     "resources": [
@@ -33,6 +33,23 @@
             }
         },
         {
+            "name": "ddf--entities--country",
+            "path": "ddf--entities--country.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "name"
+                    }
+                ],
+                "primaryKey": [
+                    "country"
+                ]
+            }
+        },
+        {
             "name": "ddf--datapoints--hdi--by--country--year",
             "path": "ddf--datapoints--hdi--by--country--year.csv",
             "schema": {
@@ -50,23 +67,6 @@
                 "primaryKey": [
                     "country",
                     "year"
-                ]
-            }
-        },
-        {
-            "name": "ddf--entities--country",
-            "path": "ddf--entities--country.csv",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "country"
-                    },
-                    {
-                        "name": "name"
-                    }
-                ],
-                "primaryKey": [
-                    "country"
                 ]
             }
         }

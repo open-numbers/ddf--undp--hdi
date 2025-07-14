@@ -1,193 +1,195 @@
 country,name
 afghanistan,Afghanistan
-angola,Angola
 albania,Albania
+algeria,Algeria
 andorra,Andorra
-united_arab_emirates,United Arab Emirates
+angola,Angola
+antigua_and_barbuda,Antigua and Barbuda
 argentina,Argentina
 armenia,Armenia
-antigua_and_barbuda,Antigua and Barbuda
 australia,Australia
 austria,Austria
 azerbaijan,Azerbaijan
-burundi,Burundi
-belgium,Belgium
-benin,Benin
-burkina_faso,Burkina Faso
-bangladesh,Bangladesh
-bulgaria,Bulgaria
-bahrain,Bahrain
 bahamas,Bahamas
-bosnia_and_herzegovina,Bosnia and Herzegovina
-belarus,Belarus
-belize,Belize
-bolivia_plurinational_state_of,Bolivia (Plurinational State of)
-brazil,Brazil
+bahrain,Bahrain
+bangladesh,Bangladesh
 barbados,Barbados
-brunei_darussalam,Brunei Darussalam
+belarus,Belarus
+belgium,Belgium
+belize,Belize
+benin,Benin
 bhutan,Bhutan
+bolivia_plurinational_state_of,Bolivia (Plurinational State of)
+bosnia_and_herzegovina,Bosnia and Herzegovina
 botswana,Botswana
-central_african_republic,Central African Republic
+brazil,Brazil
+brunei_darussalam,Brunei Darussalam
+bulgaria,Bulgaria
+burkina_faso,Burkina Faso
+burundi,Burundi
+cabo_verde,Cabo Verde
+cambodia,Cambodia
+cameroon,Cameroon
 canada,Canada
-switzerland,Switzerland
+central_african_republic,Central African Republic
+chad,Chad
 chile,Chile
 china,China
-cote_d_ivoire,Côte d'Ivoire
-cameroon,Cameroon
-congo_democratic_republic_of_the,Congo (Democratic Republic of the)
-congo,Congo
 colombia,Colombia
 comoros,Comoros
-cabo_verde,Cabo Verde
+congo,Congo
+congo_democratic_republic_of_the,Congo (Democratic Republic of the)
 costa_rica,Costa Rica
+croatia,Croatia
 cuba,Cuba
 cyprus,Cyprus
 czechia,Czechia
-germany,Germany
+cote_d_ivoire,Côte d'Ivoire
+denmark,Denmark
 djibouti,Djibouti
 dominica,Dominica
-denmark,Denmark
 dominican_republic,Dominican Republic
-algeria,Algeria
 ecuador,Ecuador
 egypt,Egypt
-eritrea,Eritrea
-spain,Spain
-estonia,Estonia
-ethiopia,Ethiopia
-finland,Finland
-fiji,Fiji
-france,France
-micronesia_federated_states_of,Micronesia (Federated States of)
-gabon,Gabon
-united_kingdom,United Kingdom
-georgia,Georgia
-ghana,Ghana
-guinea,Guinea
-gambia,Gambia
-guinea_bissau,Guinea-Bissau
+el_salvador,El Salvador
 equatorial_guinea,Equatorial Guinea
+eritrea,Eritrea
+estonia,Estonia
+eswatini_kingdom_of,Eswatini (Kingdom of)
+ethiopia,Ethiopia
+fiji,Fiji
+finland,Finland
+france,France
+gabon,Gabon
+gambia,Gambia
+georgia,Georgia
+germany,Germany
+ghana,Ghana
 greece,Greece
 grenada,Grenada
 guatemala,Guatemala
+guinea,Guinea
+guinea_bissau,Guinea-Bissau
 guyana,Guyana
-hong_kong_china_sar,"Hong Kong, China (SAR)"
-honduras,Honduras
-croatia,Croatia
 haiti,Haiti
+honduras,Honduras
+hong_kong_china_sar,"Hong Kong, China (SAR)"
 hungary,Hungary
-indonesia,Indonesia
+iceland,Iceland
 india,India
-ireland,Ireland
+indonesia,Indonesia
 iran_islamic_republic_of,Iran (Islamic Republic of)
 iraq,Iraq
-iceland,Iceland
+ireland,Ireland
 israel,Israel
 italy,Italy
 jamaica,Jamaica
-jordan,Jordan
 japan,Japan
+jordan,Jordan
 kazakhstan,Kazakhstan
 kenya,Kenya
-kyrgyzstan,Kyrgyzstan
-cambodia,Cambodia
 kiribati,Kiribati
-saint_kitts_and_nevis,Saint Kitts and Nevis
 korea_republic_of,Korea (Republic of)
 kuwait,Kuwait
+kyrgyzstan,Kyrgyzstan
 lao_people_s_democratic_republic,Lao People's Democratic Republic
+latvia,Latvia
 lebanon,Lebanon
+lesotho,Lesotho
 liberia,Liberia
 libya,Libya
-saint_lucia,Saint Lucia
 liechtenstein,Liechtenstein
-sri_lanka,Sri Lanka
-lesotho,Lesotho
 lithuania,Lithuania
 luxembourg,Luxembourg
-latvia,Latvia
-morocco,Morocco
-moldova_republic_of,Moldova (Republic of)
 madagascar,Madagascar
-maldives,Maldives
-mexico,Mexico
-marshall_islands,Marshall Islands
-north_macedonia,North Macedonia
-mali,Mali
-malta,Malta
-myanmar,Myanmar
-montenegro,Montenegro
-mongolia,Mongolia
-mozambique,Mozambique
-mauritania,Mauritania
-mauritius,Mauritius
 malawi,Malawi
 malaysia,Malaysia
+maldives,Maldives
+mali,Mali
+malta,Malta
+marshall_islands,Marshall Islands
+mauritania,Mauritania
+mauritius,Mauritius
+mexico,Mexico
+micronesia_federated_states_of,Micronesia (Federated States of)
+moldova_republic_of,Moldova (Republic of)
+mongolia,Mongolia
+montenegro,Montenegro
+morocco,Morocco
+mozambique,Mozambique
+myanmar,Myanmar
 namibia,Namibia
+nauru,Nauru
+nepal,Nepal
+netherlands,Netherlands
+new_zealand,New Zealand
+nicaragua,Nicaragua
 niger,Niger
 nigeria,Nigeria
-nicaragua,Nicaragua
-netherlands,Netherlands
+north_macedonia,North Macedonia
 norway,Norway
-nepal,Nepal
-new_zealand,New Zealand
 oman,Oman
 pakistan,Pakistan
+palau,Palau
+palestine_state_of,"Palestine, State of"
 panama,Panama
+papua_new_guinea,Papua New Guinea
+paraguay,Paraguay
 peru,Peru
 philippines,Philippines
-palau,Palau
-papua_new_guinea,Papua New Guinea
 poland,Poland
 portugal,Portugal
-paraguay,Paraguay
-palestine_state_of,"Palestine, State of"
 qatar,Qatar
 romania,Romania
 russian_federation,Russian Federation
 rwanda,Rwanda
-saudi_arabia,Saudi Arabia
-sudan,Sudan
-senegal,Senegal
-singapore,Singapore
-solomon_islands,Solomon Islands
-sierra_leone,Sierra Leone
-el_salvador,El Salvador
+saint_kitts_and_nevis,Saint Kitts and Nevis
+saint_lucia,Saint Lucia
+saint_vincent_and_the_grenadines,Saint Vincent and the Grenadines
+samoa,Samoa
 san_marino,San Marino
-serbia,Serbia
-south_sudan,South Sudan
 sao_tome_and_principe,Sao Tome and Principe
-suriname,Suriname
+saudi_arabia,Saudi Arabia
+senegal,Senegal
+serbia,Serbia
+seychelles,Seychelles
+sierra_leone,Sierra Leone
+singapore,Singapore
 slovakia,Slovakia
 slovenia,Slovenia
+solomon_islands,Solomon Islands
+somalia,Somalia
+south_africa,South Africa
+south_sudan,South Sudan
+spain,Spain
+sri_lanka,Sri Lanka
+sudan,Sudan
+suriname,Suriname
 sweden,Sweden
-eswatini_kingdom_of,Eswatini (Kingdom of)
-seychelles,Seychelles
+switzerland,Switzerland
 syrian_arab_republic,Syrian Arab Republic
-chad,Chad
-togo,Togo
-thailand,Thailand
 tajikistan,Tajikistan
-turkmenistan,Turkmenistan
+tanzania_united_republic_of,Tanzania (United Republic of)
+thailand,Thailand
 timor_leste,Timor-Leste
+togo,Togo
 tonga,Tonga
 trinidad_and_tobago,Trinidad and Tobago
 tunisia,Tunisia
-turkey,Turkey
+turkmenistan,Turkmenistan
 tuvalu,Tuvalu
-tanzania_united_republic_of,Tanzania (United Republic of)
+turkiye,Türkiye
 uganda,Uganda
 ukraine,Ukraine
-uruguay,Uruguay
+united_arab_emirates,United Arab Emirates
+united_kingdom,United Kingdom
 united_states,United States
+uruguay,Uruguay
 uzbekistan,Uzbekistan
-saint_vincent_and_the_grenadines,Saint Vincent and the Grenadines
+vanuatu,Vanuatu
 venezuela_bolivarian_republic_of,Venezuela (Bolivarian Republic of)
 viet_nam,Viet Nam
-vanuatu,Vanuatu
-samoa,Samoa
 yemen,Yemen
-south_africa,South Africa
 zambia,Zambia
 zimbabwe,Zimbabwe
 very_high_human_development,Very high human development
